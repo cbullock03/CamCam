@@ -1,4 +1,4 @@
-# Contributing to [Your Project Name]
+# Contributing to CamCam
 
 Thank you for considering contributing to this project! We appreciate your time and effort in helping to improve this project. Please follow the guidelines below to contribute effectively.
 
