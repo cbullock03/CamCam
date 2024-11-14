@@ -28,5 +28,5 @@ Thank you for considering contributing to this project! We appreciate your time 
 - Test your code thoroughly before submitting.
 
 ## Contact
-If you have questions about contributing, feel free to reach out by [providing contact details or a link to the project’s discussion forum].
+If you have questions about contributing, feel free to reach out by visiting https://github.com/cbullock03/github-final-project/discussions/new?category=announcements&welcome_text=true
 
